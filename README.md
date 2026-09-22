@@ -166,6 +166,5 @@ Sales_Department/
 ├── Sales_Department.ipynb
 ├── sales_slides.pptx
 ├── README.md
-└── data/
-    ├── train.csv
-    └── store.csv
+├── train.csv
+|── store.csv
